@@ -1,0 +1,13 @@
+#define LCP_CONFREQ 0x01
+#define LCP_CONFACK 0x02
+#define LCP_CONFNAK 0x03
+#define LCP_CONFREJ 0x04
+#define LCP_TERMREQ 0x05
+#define LCP_TERMACK 0x06
+#define LCP_CODEREJ 0x07
+#define LCP_PROTREQ 0x08
+#define LCP_ECHOREQ 0x09
+#define LCP_ECHOREP 0x0a
+#define LCP_DISCREQ 0x0b
+#define LCP_RESTREQ 0x0e
+#define LCP_RESTACK 0x0f
